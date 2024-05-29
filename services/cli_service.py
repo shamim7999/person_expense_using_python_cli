@@ -1,4 +1,4 @@
-import dao.db as mydb
+import database.db as mydb
 
 
 def withdraw_money(person_id, amount):

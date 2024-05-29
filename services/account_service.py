@@ -1,4 +1,4 @@
-import dao.db as mydb
+import database.db as mydb
 
 
 def make_transaction(account_id, amount, transaction_type, date, reason, person_id):
